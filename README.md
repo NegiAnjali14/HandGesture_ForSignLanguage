@@ -46,8 +46,7 @@ Thank You
 Yes
 
 ▶️ Running the Project
-Step 1: Clone the Repository
-git clone https://github.com/yourusername/hand-gesture-sign-language.git
+Step 1: Clone the Repository git clone 
 
 Step 2: Open the Project Folder
 cd hand-gesture-sign-language
